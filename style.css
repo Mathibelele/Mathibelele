@@ -25,11 +25,26 @@ a {
   width: 50%;
   border-radius: 50%;
 }
+
+.insta{
+  color: lightpink;
+}
+
+.facebok{
+  color: blue;
+}
+.linked{
+  color: lightblue;
+}
+.twiter{
+  color: lightblue;
+}
+
 .btn {
   display: block;
   color: black;
   padding: 20px;
-  background: white;
+  background: darkslateblue;
   margin: 16px;
   box-shadow: 10px 10px lightblue;
 }
