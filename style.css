@@ -27,23 +27,29 @@ a {
 }
 .insta{
   color: lightpink;
+  margin: 15px;
 }
 
 .facebok{
   color: blue;
+  margin: 15px;
 }
 .linked{
   color: lightblue;
+  margin: 15px;
 }
 .twiter{
   color: lightblue;
+  margin: 15px;
 }
 
 .btn {
+  cursor: pointer;
   display: block;
   color: black;
   padding: 20px;
   background: darkslateblue;
   margin: 16px;
   box-shadow: 10px 10px lightblue;
+  
 }
